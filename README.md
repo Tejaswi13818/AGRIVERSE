@@ -55,11 +55,7 @@ Verified agricultural data collected from farmers can be utilized to continuousl
 * OpenWeatherMap API
 ---
 ## ⚙️ Installation
-### Clone Repository
-```bash
-git clone https://github.com/sathwik123677/AGRIVERSE.git
-cd AGRIVERSE
-```
+
 ### Backend Setup
 ```bash
 cd Backend
@@ -79,5 +75,5 @@ npm run dev
 * Backend: Render
 ---
 ## 👨‍💻 Author
-**Sathwik Pathivada**
+**Tejaswi**
 B.Tech CSE, NIT Patna
